@@ -52,20 +52,20 @@ Individuals or groups involved
 ### Risk Treatment:
 
 #### Summary of Identified Threats and Recommended Mitigations:
-1. **Cybersecurity Attacks**:
-   - **Mitigations**
+1. **Cybersecurity Attacks**  
+   - **Mitigations**  
      Implement robust cybersecurity measures, including regular security audits, employee training on cybersecurity best practices, and deploying advanced threat detection systems.
-   - **Priority**
+   - **Priority**  
      High, as a data breach or cyberattack could severely impact DE's reputation and financial stability.
-2. **Supply Chain Disruptions**:
-   - **Mitigations**
+2. **Supply Chain Disruptions**  
+   - **Mitigations**  
      Develop contingency plans, diversify suppliers, and establish clear communication channels with key partners to mitigate the impact of supply chain disruptions.
-   - **Priority**
+   - **Priority**  
      High, as disruptions in the supply chain could lead to delays in product delivery and customer dissatisfaction.
-3. **Competitive Pressure**:
-   - **Mitigations**
+3. **MArket Competition**  
+   - **Mitigations**  
      Conduct regular market analysis, focus on innovation and customer-centric strategies.
-   - **Priority**
+   - **Priority**  
      Medium, as while competitive pressure is a constant in the market, effective strategies and R&D can help DE maintain its competitive edge and mitigate its impact.
 
 #### Prioritization and Recommended Responses:
