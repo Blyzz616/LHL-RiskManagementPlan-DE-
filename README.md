@@ -16,7 +16,7 @@ The objective of this document is to establish a methodology for evaluating and 
     - Management - to make descisions based on infomration from the other two.
 
 #### Assets, Vulnerabilities, and Threats
-- Main threats:
+- Main threats:  
   **Cybersecurity Attacks**  
      Such as data breaches or ransomware attacks targeting customer data or internal systems.  
   **Supply Chain Disruptions**  
