@@ -47,7 +47,7 @@ Individuals or groups involved
 
 #### Risk Acceptance Criteria:
 - The most likely/highest risk item, such as Supply Chain Disruptions, may severely impact DE's operations, resulting in significant financial losses and reputational damage.
-- Some items in the table may be "accepted" based on DE's risk tolerance and available resources. For instance, while Competitive Pressure is a significant risk, it must be accepted as a normal part of doing business in a competitive environment.
+- Some items in the may be "accepted" based on DE's risk tolerance and available resources. For instance, while "Competitive Pressure" is a significant risk, it must be accepted as a normal part of doing business in a competitive environment.
 
 ### Risk Treatment:
 
