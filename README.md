@@ -41,7 +41,7 @@ Individuals or groups involved
 #### Impact and Likelihood:
 | Threat                 | Impact (C/I/A) | Likelihood |
 |------------------------|----------------------|----------------------|
-| Cybersecurity Attacks  | High (9)              | Moderate (3)         |
+| CYbersecurity Attacks  | High (9)              | Moderate (3)         |
 | Supply Chain Disruptions | High (8)             | Moderate (3)         |
 | Competitive Pressure   | Moderate (5)          | High (5)            |
 
