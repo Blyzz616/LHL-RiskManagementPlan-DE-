@@ -17,12 +17,12 @@ The objective of this document is to establish a methodology for evaluating and 
 
 #### Assets, Vulnerabilities, and Threats
 - Main threats:
-  **Cybersecurity Attacks**
-     Such as data breaches or ransomware attacks targeting customer data or internal systems.
-  **Supply Chain Disruptions**
-     Including disruptions in the delivery of essential components or services.
-  **Competition**
-     From other providers in the market, potentially leading to loss of market share or revenue.
+  **Cybersecurity Attacks**  
+     Such as data breaches or ransomware attacks targeting customer data or internal systems.  
+  **Supply Chain Disruptions**  
+     Including disruptions in the delivery of essential components or services.  
+  **Competition**  
+     From other providers in the market, potentially leading to loss of market share or revenue.  
 - Challenges in managing these threats:
   - Limited resources for implementing robust cybersecurity measures.
   - Complexity of supply chain networks, making it difficult to identify and mitigate potential disruptions.
