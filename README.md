@@ -11,23 +11,28 @@
 
 ## Risk Assessment and Risk Treatment Methodology:
 
-Risk Assessment
+### Risk Assessment
 
-### The Process: The risk assessment process will involve the following steps:
+#### The Process  
+
+The risk assessment process will involve the following steps:
 
 1) Identify assets, vulnerabilities, and threats.
 2) Assess the likelihood and potential impact of each identified risk.
 3) Determine risk owners and responsibilities.
 4) Establish risk acceptance criteria.
    
-Individuals or Groups Involved: The risk assessment process may involve IT professionals, supply chain experts, and departmental heads. IT professionals can provide insights into technical vulnerabilities, supply chain experts can identify potential disruptions, and departmental heads can provide information on operational risks.
+#### Individuals or Groups Involved   
 
-Assets, Vulnerabilities, and Threats:
+The risk assessment process may involve IT professionals, supply chain experts, and departmental heads. IT professionals can provide insights into technical vulnerabilities, supply chain experts can identify potential disruptions, and departmental heads can provide information on operational risks.
+
+#### Assets, Vulnerabilities, and Threats  
 
 - Main threats: Cybersecurity breaches, supply chain disruptions, and operational failures.
 - Challenges: Limited resources for implementing robust security measures, dependencies on external suppliers, and maintaining operational efficiency amidst rapid growth.
 
-Determining the Risk Owners:  
+#### Determining the Risk Owners  
+
   1) Cybersecurity Breaches:  
      IT Security Manager -> IT Director -> Chief Information Officer (CIO)
   2) Supply Chain Disruptions:  
