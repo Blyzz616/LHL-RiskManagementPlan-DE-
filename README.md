@@ -1,6 +1,6 @@
 ## Risk Assessment and Risk Treatment Methodology:
 
-Purpose, scope, and users
+The objective of this document is to establish a methodology for evaluating and addressing information risks within DE, aligning with ISO/IEC 27001 standards. Risk Assessment and Risk Treatment protocols are to be implemented across the entirety of DE's Information Security Management System (ISMS), covering all assets utilized within the organization or potentially impacting information security within the ISMS framework.
 
 ### Risk Assessment:
 
