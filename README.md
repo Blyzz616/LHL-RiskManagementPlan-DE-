@@ -1,41 +1,68 @@
-## Purpose, Scope, and Users
-
-- Purpose  
-  The purpose of this Risk Methodology is to enable DE to identify, assess, and manage the risks it faces in order to maintain its reputation for reliable and high-quality service.
-
-- Scope  
-  This methodology will cover the process of risk identification, assessment, and management, tailored to DE's specific context of limited resources and competitive market environment.
-
-- Users  
-  The users of this methodology will include DE's management team, IT professionals, supply chain experts, and other relevant stakeholders involved in risk management.
-
 ## Risk Assessment and Risk Treatment Methodology:
 
-### Risk Assessment
+Purpose, scope, and users
 
-#### The Process  
+### Risk Assessment:
 
-The risk assessment process will involve the following steps:
+#### The Process:
+- The risk assessment process will involve
+  - Gathering information about DE's operations, infrastructure, and external environment.
+  - Identifying assets, vulnerabilities, and threats.
+  - Analyzing the likelihood and potential impact of identified risks.
+  - Prioritizing risks based on their significance to DE's operations and objectives.
+  - Individuals involved
+    - IT - to understand the technicality
+    - Finance - to understand the costs involved
+    - Management - to make descisions based on infomration from the other two.
 
-1) Identify assets, vulnerabilities, and threats.
-2) Assess the likelihood and potential impact of each identified risk.
-3) Determine risk owners and responsibilities.
-4) Establish risk acceptance criteria.
-   
-#### Individuals or Groups Involved   
+#### Assets, Vulnerabilities, and Threats
+- Main threats:
+  1. **Cybersecurity Attacks**
+     Such as data breaches or ransomware attacks targeting customer data or internal systems.
+  2. **Supply Chain Disruptions**
+     Including disruptions in the delivery of essential components or services.
+  3. **Competition**
+     From other providers in the market, potentially leading to loss of market share or revenue.
+- Challenges in managing these threats:
+  - Limited resources for implementing robust cybersecurity measures.
+  - Complexity of supply chain networks, making it difficult to identify and mitigate potential disruptions.
+  - Fast-moving market requiring continuous adaptation and innovation.
 
-The risk assessment process may involve IT professionals, supply chain experts, and departmental heads. IT professionals can provide insights into technical vulnerabilities, supply chain experts can identify potential disruptions, and departmental heads can provide information on operational risks.
+#### Determining the Risk Owners
 
-#### Assets, Vulnerabilities, and Threats  
+Individuals or groups involved  
+  1. **IT Security Team** - Owner: Information System Owner
+     Due to their expertise in identifying and mitigating cybersecurity risks.
+  2. **Supply Chain Management Team** Owner: System Manager
+     As supply chain disruptions can have significant impacts on DE's operations.
+  3. **Executive Management** Owner: Chief Executive Officer
+     To provide strategic direction and make decisions regarding risk management priorities.
 
-- Main threats: Cybersecurity breaches, supply chain disruptions, and operational failures.
-- Challenges: Limited resources for implementing robust security measures, dependencies on external suppliers, and maintaining operational efficiency amidst rapid growth.
+#### Impact and Likelihood:
+| Threat                 | Impact (C/I/A) | Likelihood |
+|------------------------|----------------------|----------------------|
+| Cybersecurity Attacks  | High              | Moderate         |
+| Supply Chain Disruptions | High             | Moderate          |
+| Competitive Pressure   | Moderate          | High             |
 
-#### Determining the Risk Owners  
+#### Risk Acceptance Criteria:
+- The most likely/highest risk item, such as Supply Chain Disruptions, may severely impact DE's operations, resulting in significant financial losses and reputational damage.
+- Some items in the table may be "ignored" or "minimized" based on DE's risk tolerance and available resources. For instance, while Competitive Pressure is a significant risk, it may be accepted as a normal part of business competition, and efforts may focus on mitigating rather than eliminating it.
 
-  1) Cybersecurity Breaches:  
-     IT Security Manager -> IT Director -> Chief Information Officer (CIO)
-  2) Supply Chain Disruptions:  
-     Supply Chain Manager -> Operations Manager -> Chief Operating Officer (COO)
-  3) Operational Failures:  
-     Departmental Head -> Operations Manager -> Chief Executive Officer (CEO)
+### 2.2 Risk Treatment:
+
+#### Summary of Identified Threats and Recommended Mitigations:
+1. **Cybersecurity Attacks**:
+   - **Mitigations**: Implement robust cybersecurity measures, including regular security audits, employee training on cybersecurity best practices, and deploying advanced threat detection systems.
+   - **Priority**: High, as a data breach or cyberattack could severely impact DE's reputation and financial stability.
+2. **Supply Chain Disruptions**:
+   - **Mitigations**: Develop contingency plans, diversify suppliers, and establish clear communication channels with key partners to mitigate the impact of supply chain disruptions.
+   - **Priority**: High, as disruptions in the supply chain could lead to delays in product delivery and customer dissatisfaction.
+3. **Competitive Pressure**:
+   - **Mitigations**: Conduct regular market analysis, focus on innovation and customer-centric strategies, and maintain agility to respond to changing market dynamics.
+   - **Priority**: Moderate, as while competitive pressure is a constant in the market, effective strategies can help DE maintain its competitive edge and mitigate its impact.
+
+#### Prioritization and Recommended Responses:
+- The prioritization of threats is based on their potential impact on DE's operations and reputation, as well as the likelihood of occurrence.
+- Recommended responses are aligned with industry-standard frameworks such as NIST Cybersecurity Framework and ISO 31000, ensuring comprehensive risk mitigation strategies.
+
