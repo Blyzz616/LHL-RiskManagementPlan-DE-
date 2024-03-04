@@ -41,9 +41,9 @@ Individuals or groups involved
 #### Impact and Likelihood:
 | Threat                 | Impact (C/I/A) | Likelihood |
 |------------------------|----------------------|----------------------|
-| Cybersecurity Attacks  | High              | Moderate         |
-| Supply Chain Disruptions | High             | Moderate          |
-| Competitive Pressure   | Moderate          | High             |
+| Cybersecurity Attacks  | High (9)              | Moderate (3)         |
+| Supply Chain Disruptions | High (8)             | Moderate (3)         |
+| Competitive Pressure   | Moderate (5)          | High (5)            |
 
 #### Risk Acceptance Criteria:
 - The most likely/highest risk item, such as Supply Chain Disruptions, may severely impact DE's operations, resulting in significant financial losses and reputational damage.
