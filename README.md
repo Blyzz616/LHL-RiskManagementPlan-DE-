@@ -58,7 +58,7 @@ Individuals or groups involved
    - **Priority**  
      High, as a data breach or cyberattack could severely impact DE's reputation and financial stability.
 2. **Supply Chain Disruptions**  
-   - **Mitigations**  
+   - **Mitigation**  
      Develop contingency plans, diversify suppliers, and establish clear communication channels with key partners to mitigate the impact of supply chain disruptions.
    - **Priority**  
      High, as disruptions in the supply chain could lead to delays in product delivery and customer dissatisfaction.
