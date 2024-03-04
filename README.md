@@ -31,11 +31,11 @@ Purpose, scope, and users
 #### Determining the Risk Owners
 
 Individuals or groups involved  
-  1. **IT Security Team** - Owner: Information System Owner
+  1. **IT Security Team** - Owner: Information System Owner  
      Due to their expertise in identifying and mitigating cybersecurity risks.
-  2. **Supply Chain Management Team** Owner: System Manager
+  2. **Supply Chain Management Team** Owner: System Manager  
      As supply chain disruptions can have significant impacts on DE's operations.
-  3. **Executive Management** Owner: Chief Executive Officer
+  3. **Executive Management** Owner: Chief Executive Officer  
      To provide strategic direction and make decisions regarding risk management priorities.
 
 #### Impact and Likelihood:
