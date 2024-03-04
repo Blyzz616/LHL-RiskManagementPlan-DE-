@@ -47,20 +47,26 @@ Individuals or groups involved
 
 #### Risk Acceptance Criteria:
 - The most likely/highest risk item, such as Supply Chain Disruptions, may severely impact DE's operations, resulting in significant financial losses and reputational damage.
-- Some items in the table may be "ignored" or "minimized" based on DE's risk tolerance and available resources. For instance, while Competitive Pressure is a significant risk, it may be accepted as a normal part of business competition, and efforts may focus on mitigating rather than eliminating it.
+- Some items in the table may be "accepted" based on DE's risk tolerance and available resources. For instance, while Competitive Pressure is a significant risk, it must be accepted as a normal part of doing business in a competitive environment.
 
-### 2.2 Risk Treatment:
+### Risk Treatment:
 
 #### Summary of Identified Threats and Recommended Mitigations:
 1. **Cybersecurity Attacks**:
-   - **Mitigations**: Implement robust cybersecurity measures, including regular security audits, employee training on cybersecurity best practices, and deploying advanced threat detection systems.
-   - **Priority**: High, as a data breach or cyberattack could severely impact DE's reputation and financial stability.
+   - **Mitigations**
+     Implement robust cybersecurity measures, including regular security audits, employee training on cybersecurity best practices, and deploying advanced threat detection systems.
+   - **Priority**
+     High, as a data breach or cyberattack could severely impact DE's reputation and financial stability.
 2. **Supply Chain Disruptions**:
-   - **Mitigations**: Develop contingency plans, diversify suppliers, and establish clear communication channels with key partners to mitigate the impact of supply chain disruptions.
-   - **Priority**: High, as disruptions in the supply chain could lead to delays in product delivery and customer dissatisfaction.
+   - **Mitigations**
+     Develop contingency plans, diversify suppliers, and establish clear communication channels with key partners to mitigate the impact of supply chain disruptions.
+   - **Priority**
+     High, as disruptions in the supply chain could lead to delays in product delivery and customer dissatisfaction.
 3. **Competitive Pressure**:
-   - **Mitigations**: Conduct regular market analysis, focus on innovation and customer-centric strategies, and maintain agility to respond to changing market dynamics.
-   - **Priority**: Moderate, as while competitive pressure is a constant in the market, effective strategies can help DE maintain its competitive edge and mitigate its impact.
+   - **Mitigations**
+     Conduct regular market analysis, focus on innovation and customer-centric strategies.
+   - **Priority**
+     Medium, as while competitive pressure is a constant in the market, effective strategies and R&D can help DE maintain its competitive edge and mitigate its impact.
 
 #### Prioritization and Recommended Responses:
 - The prioritization of threats is based on their potential impact on DE's operations and reputation, as well as the likelihood of occurrence.
