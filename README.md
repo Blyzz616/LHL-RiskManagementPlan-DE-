@@ -27,10 +27,10 @@ Assets, Vulnerabilities, and Threats:
 - Main threats: Cybersecurity breaches, supply chain disruptions, and operational failures.
 - Challenges: Limited resources for implementing robust security measures, dependencies on external suppliers, and maintaining operational efficiency amidst rapid growth.
 
-Determining the Risk Owners:
-  1) Cybersecurity Breaches:
+Determining the Risk Owners:  
+  1) Cybersecurity Breaches:  
      IT Security Manager -> IT Director -> Chief Information Officer (CIO)
-  2) Supply Chain Disruptions:
+  2) Supply Chain Disruptions:  
      Supply Chain Manager -> Operations Manager -> Chief Operating Officer (COO)
-  3) Operational Failures:
+  3) Operational Failures:  
      Departmental Head -> Operations Manager -> Chief Executive Officer (CEO)
